@@ -21,7 +21,7 @@
 
 This project is a clean and scalable **Internationalization (i18n)** Boilerplate built using:
 
-- **Next.js 14 (App Router)**
+- **Next.js 15 (App Router)**
 - **TypeScript**
 - **Tailwind CSS**
 - **Next-Intl v4**
