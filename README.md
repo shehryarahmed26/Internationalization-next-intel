@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">Internationalization Boilerplate (Next.js 14 + TypeScript)</h1>
+<h1 align="center">Internationalization Boilerplate (Next.js 15 + TypeScript)</h1>
 
 <p align="center">
   A powerful, scalable, and modern i18n-ready boilerplate for your Next.js apps.
